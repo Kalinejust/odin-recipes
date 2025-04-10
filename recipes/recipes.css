@@ -1,0 +1,24 @@
+/* recipes.css */
+
+html {
+    background-color: rgb(185, 237, 244);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+#subtitle {
+    text-align: center;
+}
+
+.p-header {
+    text-decoration: underline;
+}
