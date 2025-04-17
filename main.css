@@ -2,16 +2,41 @@
 
 html {
     background-color: rgb(185, 237, 244);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Hel, sans-serif;
 }
 
 .title {
     text-align: center;
-    font-size: 40px;
+    font-size: 55px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: 'Brush Script MT', cursive;
 }
 
-ul {
-    list-style-type: none;
+.recipe {
     text-align: center;
     font-size: 25px;
+    border: 8px black;
+    border-style: outset;
+    padding: 20px;
+    margin: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+.one {
+    background-color: palegreen;
+}
+
+.two {
+    background-color: coral;
+}
+
+.three {
+    background-color: khaki;
+}
+a {
+    color: black;
+    text-decoration: none;
 }
