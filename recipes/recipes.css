@@ -21,4 +21,32 @@ img {
 
 .p-header {
     text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+    background-color: bisque;
+    font-size: 25px;
+}
+.list {
+    background-color: bisque;
+    font-size: 25px;
+    width: 500px;
+    height: auto;
+}
+
+.step {
+    background-color: bisque;
+    font-size: 25px;
+
+}
+
+.home {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    font-size: 22px;
+    padding: 5px;
+    margin-bottom: 10px;
 }
